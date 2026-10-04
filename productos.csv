@@ -1,0 +1,4 @@
+id,nombre,precio,stock,activo
+1,a,1.0,1,True
+2,A,1.0,1,True
+3,h,2.0,2,True
